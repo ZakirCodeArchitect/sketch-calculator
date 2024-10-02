@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@radix-ui/react-navigation-menu": "^1.2.1",
+    "@types/mathjax": "^0.0.40",
+    "@types/react": "^18.3.10",
+    "mathjax": "^3.2.2",
+    "next": "^14.2.14",
+    "react-draggable": "^4.4.6"
+  }
+}
